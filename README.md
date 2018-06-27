@@ -1,4 +1,4 @@
-# The Captcha Cracker
+# The CAPTCHA Cracker
 This repository contains my solution to [The Captcha Cracker challenge on HackerRank](https://www.hackerrank.com/challenges/the-captcha-cracker/problem).
 
 There are two python code files in this repository:
